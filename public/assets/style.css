@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+    
+}
+
+body{
+    overflow-x: hidden;
+}
+a{
+    text-decoration: none;
+}
+.nav-bg{
+    background-color: orange;
+}
+.icon-div{
+    height: 200px;
+    align-content: center;
+}
+.icon-div-1{
+    background-color:gainsboro;
+}
+.image-9-1{
+    height: 250px;
+}
+.image-3{
+    height: 250px;
+    background-size: cover;
+}
+.image-14{
+    height: 550px;
+}
+.image-9{
+    height: 220px;
+}
+
+.image-17{
+    height: 580px;
+}
+.image-19{
+    height: 290px;
+}
+.image-16{
+    height: 290px;
+}
+.image-5{
+    height: 187px;
+}
+.image-8{
+    height:187px ;
+}
+
+.logo{
+    position: relative;
+    left: 12px;
+}
